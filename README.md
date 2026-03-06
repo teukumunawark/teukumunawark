@@ -1,4 +1,4 @@
-# Hi there, I'm Teuku Munawwar Khalil 👋
+# Hi there, I'm Teuku Munawar Khalil 👋
 
 **Backend Developer** focused on **Spring Boot**, scalable APIs, and clean system design.  
 Also experienced in **Flutter**, **Android**, and modern full-stack development.
