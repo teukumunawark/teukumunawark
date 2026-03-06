@@ -1,10 +1,16 @@
-# 💫 About Me:
+# About Me
 
-Hi there! I'm **Teuku Munawar Khalil**, also known as **Munawar** or **Khalil**. I'm a passionate backend developer.
+### 👤 Minimal Text About Me
+Brief introduction about yourself with a focus on your professional skills and highlights.
 
-My programming journey initially began with a focus on mobile development, utilizing Flutter and Android. However, as my
-interest in full-stack development grew, I transitioned to the backend world and am currently immersed in Spring Boot
-development.
+---
 
-Presently, I work full-time as a Spring Boot backend developer. I'm always enthusiastic about crafting robust and
-scalable backend systems, continuously learning and expanding my skillset in this domain.
+## My Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teukumunawark&show_icons=true&theme=radical)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=teukumunawark&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=teukumunawark&theme=darkhub)
+
+## Skills
+
+![My Skills](https://skills.thijs.gg/icons?i=js,html,css)
