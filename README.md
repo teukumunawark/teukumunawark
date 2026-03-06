@@ -1,46 +1,28 @@
-# 👋 Teuku Munawwar Khalil
+# Hi there, I'm Teuku Munawwar Khalil 👋
 
-**Backend Developer | Spring Boot | Full-Stack Enthusiast**
+**Backend Developer** focused on **Spring Boot**, scalable APIs, and clean system design.  
+Also experienced in **Flutter**, **Android**, and modern full-stack development.
 
 ---
 
-## GitHub Statistics
+## GitHub Overview
 
-<div align="">
-  
-  [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=teukumunawark&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=ffffff&title_color=58a6ff)](https://github.com/teukumunawark)
-  
-  [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=teukumunawark&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=ffffff&title_color=58a6ff)](https://github.com/teukumunawark)
-  
+<div align="left">
+
+<a href="https://github.com/teukumunawark">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=teukumunawark&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=ffffff&title_color=58a6ff" />
+</a>
+<a href="https://github.com/teukumunawark">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=teukumunawark&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=ffffff&title_color=58a6ff" />
+</a>
+
 </div>
 
----
+<div align="left">
 
-## 🔥 Contribution Streak
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=teukumunawark&theme=tokyonight&hide_border=true)](https://github.com/teukumunawark)
-  
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  
-  [![GitHub Trophies](https://github-trophies.vercel.app/?username=teukumunawark&theme=tokyonight&no-frame=true&margin-w=5)](https://github.com/teukumunawark)
-  
-</div>
-
----
-
-## 📈 Activity Overview
-
-<div align="center">
-
-![Teuku's GitHub Activity](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=58a6ff)
+<a href="https://github.com/teukumunawark">
+  <img width="75.50%" src="https://streak-stats.demolab.com?user=teukumunawark&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -48,23 +30,15 @@
 
 ## About Me
 
-Hello! I'm **Teuku Munawwar Khalil**, a results-driven backend developer with a passion for building robust, scalable, and maintainable software systems. With experience spanning mobile and full-stack development, I've evolved into a specialized backend engineer with deep expertise in Java ecosystem technologies.
+- 💼 Full-time **Spring Boot Backend Developer**
+- 🔧 Passionate about building **robust, scalable, and maintainable systems**
+- 🌱 Started from **mobile development** with Flutter & Android
+- ⚡ Now focused on **microservices, REST APIs, databases, and security**
+- 🎯 Interested in backend architecture and full-stack product development
 
 ---
 
-## 💼 Professional Background
-
-My programming journey began with a focus on **mobile development**, utilizing Flutter and Android technologies. As my interest in full-stack development grew, I transitioned to the **backend domain** and have been immersed in enterprise-level backend systems development.
-
-Currently, I work **full-time as a Spring Boot Backend Developer**, where I focus on:
-- Designing and implementing scalable microservices
-- Building RESTful APIs with enterprise-grade standards
-- Developing robust database solutions
-- Implementing secure authentication and authorization mechanisms
-
----
-
-## 🔧 Technical Expertise
+## 🛠 Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -72,18 +46,16 @@ Currently, I work **full-time as a Spring Boot Backend Developer**, where I focu
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frameworks & Libraries
+### Backend & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### Databases
+### Database & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
@@ -91,9 +63,19 @@ Currently, I work **full-time as a Spring Boot Backend Developer**, where I focu
 
 ---
 
-## 🔗 Connect With Me
+## Achievements
 
-<div align="center">
+<div align="left">
+  <a href="https://github.com/teukumunawark">
+    <img src="https://github-trophies.vercel.app/?username=teukumunawark&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8" />
+  </a>
+</div>
+
+---
+
+## Connect With Me
+
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/teukumunawark)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teukumunawark)
@@ -103,11 +85,3 @@ Currently, I work **full-time as a Spring Boot Backend Developer**, where I focu
 </div>
 
 ---
-
-<div align="center">
-
-**Happy Coding!** 🚀
-
-*Last Updated: March 2026*
-
-</div>
