@@ -21,7 +21,7 @@ Also experienced in **Flutter**, **Android**, and modern full-stack development.
 <div align="left">
 
 <a href="https://github.com/teukumunawark">
-  <img width="75.50%" src="https://streak-stats.demolab.com?user=teukumunawark&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=teukumunawark&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
